@@ -10,8 +10,10 @@
     "lint": "eslint .",
     "start": "react-native start",
     "test": "jest",
-    "build":"react-scripts build"
+    "build":"react-scripts build",
+    "dev": "npm run dev"
     
+  
   },
   "dependencies": {
     "@react-native-async-storage/async-storage": "^1.21.0",
